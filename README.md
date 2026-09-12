@@ -24,11 +24,15 @@ The repository includes image, audio, and video metadata analysis programs along
 ## Objectives
 
 - Understand the fundamentals of multimedia systems.
-- Implement image, audio, and video metadata analysis.
-- Extract important metadata from multimedia files.
-- Develop a consolidated multimedia analyzer.
-- Practice modular programming using Python.
-- Maintain laboratory work using Git and GitHub.
+- Implement image, audio, and video processing techniques.
+- Study multimedia compression techniques.
+- Understand multimedia communication and streaming.
+- Develop interactive multimedia applications.
+- Explore Artificial Intelligence in multimedia systems.
+- Perform performance and complexity analysis.
+- Practice modular and reusable programming.
+- Implement proper error handling.
+- Maintain projects using Git and GitHub.
 
 ---
 
@@ -57,32 +61,4 @@ IC-2K22-99-MS-Yashika_Bundela/
 
 ---
 
-## Completed Work
-
-| **Lab / Project** | **Description** |
-|---|---|
-| LAB 2 | Image Metadata Analyzer — extracts image properties and EXIF metadata. |
-| Audio Metadata Analyzer | Extracts audio duration, bit rate, sampling rate, channels, and metadata. |
-| LAB 3 | Video Metadata Analyzer — extracts video and audio stream metadata. |
-| Final Project | Consolidated Multimedia Analyzer — automatically identifies image, audio, or video files and uses the corresponding analyzer. |
-
-## Quick Start (Final Project)
-
-```text
-cd Capstone-Projects/Consolidated-Multimedia-Analyzer
-pip install -r requirements.txt
-python main.py samples/image.jpg
-python main.py samples/song.mp3
-python main.py samples/video.mp4 --save
-```
-
----
-
-## Author
-
-**Yashika Bundela**  
-**Roll Number:** IC-2K22-99-MS  
-**Course:** Integrated MCA  
-**Institute:** IIPS, DAVV  
-**Academic Year:** 2026-27
 
