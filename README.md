@@ -1,51 +1,74 @@
-# Multimedia-Systems-Lab
+# Multimedia Systems Lab
 
-> Repository: `Roll_No-MS-Your_Name` — rename to your actual roll number and
-> name before pushing, e.g. `21CS1234-MS-JohnDoe`.
+## Student Information
 
-Coursework and lab assignments for the Multimedia Systems Lab.
+| **Field** | **Details** |
+|---|---|
+| **Name** | Yashika Bundela |
+| **Roll Number** | IC-2K22-99-MS |
+| **Course** | Integrated MCA |
+| **Subject** | Multimedia Systems Lab |
+| **Institute** | IIPS, DAVV |
+| **Academic Year** | 2026-27 |
+
+---
+
+## About the Repository
+
+This repository contains the practical implementations and projects developed as part of the Multimedia Systems Lab.
+
+The repository includes image, audio, and video metadata analysis programs along with a consolidated multimedia analyzer.
+
+---
+
+## Objectives
+
+- Understand the fundamentals of multimedia systems.
+- Implement image, audio, and video metadata analysis.
+- Extract important metadata from multimedia files.
+- Develop a consolidated multimedia analyzer.
+- Practice modular programming using Python.
+- Maintain laboratory work using Git and GitHub.
+
+---
 
 ## Repository Structure
 
-```
-Multimedia-Systems-Lab/
+```text
+IC-2K22-99-MS-Yashika_Bundela/
+│
 ├── Cluster01-Multimedia-Fundamentals/
 ├── Cluster02-Image-Processing/
-│   └── Lab02-Image-Metadata-Analyzer/      <- LAB 2
+│   └── Lab02-Image-Metadata-Analyzer/
 ├── Cluster03-Audio-Processing/
 │   └── Audio-Metadata-Analyzer/
 ├── Cluster04-Video-Processing/
-│   └── Lab03-Video-Metadata-Analyzer/      <- LAB 3
+│   └── Lab03-Video-Metadata-Analyzer/
 ├── Cluster05-Compression/
 ├── Cluster06-Multimedia-Communication/
 ├── Cluster07-Interactive-Multimedia/
 ├── Cluster08-Advanced-Multimedia-AI/
-├── Capstone-Projects/
-│   └── Consolidated-Multimedia-Analyzer/   <- Final Project
 │
-├── datasets/
-├── docs/
-│   ├── diagrams/
-│   ├── architecture/
-│   ├── experimental-results/
-│   ├── complexity-analysis.pdf
-│   └── final-report.pdf
-├── README.md
-└── .gitignore
+├── Capstone-Projects/
+│   └── Consolidated-Multimedia-Analyzer/
+│
+└── README.md
 ```
+
+---
 
 ## Completed Work
 
-| Lab | Folder | Description |
-|---|---|---|
-| LAB 2 | [Cluster02-Image-Processing/Lab02-Image-Metadata-Analyzer](Cluster02-Image-Processing/Lab02-Image-Metadata-Analyzer) | Reads JPG/PNG (+ TIFF/WEBP/BMP) images and reports dimensions, format, color mode, and EXIF metadata |
-| — | [Cluster03-Audio-Processing/Audio-Metadata-Analyzer](Cluster03-Audio-Processing/Audio-Metadata-Analyzer) | Reads MP3/WAV (+ FLAC/AAC/OGG) audio and reports duration, bit rate, sample rate, and tags |
-| LAB 3 | [Cluster04-Video-Processing/Lab03-Video-Metadata-Analyzer](Cluster04-Video-Processing/Lab03-Video-Metadata-Analyzer) | Reads MP4/AVI (+ MKV/MOV/WEBM) video and reports container, video-stream, and audio-stream metadata |
-| Final Project | [Capstone-Projects/Consolidated-Multimedia-Analyzer](Capstone-Projects/Consolidated-Multimedia-Analyzer) | Combines all three analyzers behind one CLI (`main.py`) that auto-detects file type and routes to the correct analyzer |
+| **Lab / Project** | **Description** |
+|---|---|
+| LAB 2 | Image Metadata Analyzer — extracts image properties and EXIF metadata. |
+| Audio Metadata Analyzer | Extracts audio duration, bit rate, sampling rate, channels, and metadata. |
+| LAB 3 | Video Metadata Analyzer — extracts video and audio stream metadata. |
+| Final Project | Consolidated Multimedia Analyzer — automatically identifies image, audio, or video files and uses the corresponding analyzer. |
 
 ## Quick Start (Final Project)
 
-```bash
+```text
 cd Capstone-Projects/Consolidated-Multimedia-Analyzer
 pip install -r requirements.txt
 python main.py samples/image.jpg
@@ -53,8 +76,13 @@ python main.py samples/song.mp3
 python main.py samples/video.mp4 --save
 ```
 
+---
+
 ## Author
 
-- **Name:** Your Name
-- **Roll No:** Roll_No
-- **Course:** Multimedia Systems Lab
+**Yashika Bundela**  
+**Roll Number:** IC-2K22-99-MS  
+**Course:** Integrated MCA  
+**Institute:** IIPS, DAVV  
+**Academic Year:** 2026-27
+
