@@ -1,0 +1,19 @@
+{
+  "source_file": "samples\\image.jpg",
+  "file_type": "image",
+  "generated_at": "2026-09-13T01:27:14",
+  "metadata": {
+    "File Name": "image.jpg",
+    "File Size": "5.30 KB",
+    "File Format": "JPEG",
+    "Width": "640 px",
+    "Height": "480 px",
+    "Resolution": "640 x 480",
+    "Color Mode": "RGB",
+    "EXIF": {
+      "Camera": "N/A",
+      "Date Taken": "N/A",
+      "Orientation": "N/A"
+    }
+  }
+}
