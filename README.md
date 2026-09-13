@@ -18,6 +18,7 @@
 This repository contains the practical implementations, experiments, multimedia datasets, source code, outputs, performance analysis, documentation, diagrams, and capstone projects developed as part of the Multimedia Systems Lab.
 
 The repository is organized into clusters covering fundamental, intermediate, and advanced multimedia concepts.
+
 ---
 
 ## Objectives
