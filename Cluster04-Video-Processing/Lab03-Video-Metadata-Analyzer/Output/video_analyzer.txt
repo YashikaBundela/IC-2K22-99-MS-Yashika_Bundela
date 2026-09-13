@@ -1,1 +1,26 @@
+================================
+VIDEO METADATA REPORT
+================================
+File Name       : video.mp4
+File Size       : 30.15 KB
+Container       : MP4
+Duration        : 2 sec
 
+VIDEO
+--------------------------------
+Resolution      : 320 pixels x 240 pixels
+Frame Rate      : N/A
+Bit Rate        : N/A
+Codec           : N/A
+
+AUDIO
+--------------------------------
+Codec           : N/A
+Channels        : N/A
+Sampling Rate   : N/A
+Bit Rate        : N/A
+
+METADATA
+--------------------------------
+Creation Date   : 1904-01-01 00:00:00
+Producer        : N/A
