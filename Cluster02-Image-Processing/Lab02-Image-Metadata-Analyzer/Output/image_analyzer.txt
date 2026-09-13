@@ -1,1 +1,16 @@
+================================
+IMAGE METADATA REPORT
+================================
+File Name       : sample.jpg
+File Size       : 8.81 KB
+File Format     : JPEG
+Width           : 640 px
+Height          : 480 px
+Resolution      : 640 x 480
+Color Mode      : RGB
 
+EXIF Metadata
+--------------------------------
+Camera          : N/A
+Date Taken      : N/A
+Orientation     : N/A
