@@ -15,10 +15,9 @@
 
 ## About the Repository
 
-This repository contains the practical implementations and projects developed as part of the Multimedia Systems Lab.
+This repository contains the practical implementations, experiments, multimedia datasets, source code, outputs, performance analysis, documentation, diagrams, and capstone projects developed as part of the Multimedia Systems Lab.
 
-The repository includes image, audio, and video metadata analysis programs along with a consolidated multimedia analyzer.
-
+The repository is organized into clusters covering fundamental, intermediate, and advanced multimedia concepts.
 ---
 
 ## Objectives
@@ -42,23 +41,59 @@ The repository includes image, audio, and video metadata analysis programs along
 IC-2K22-99-MS-Yashika_Bundela/
 │
 ├── Cluster01-Multimedia-Fundamentals/
+│
 ├── Cluster02-Image-Processing/
 │   └── Lab02-Image-Metadata-Analyzer/
+│       ├── Output/
+│       ├── samples/
+│       ├── README.md
+│       ├── file_utils.py
+│       └── image_analyzer.py
+│
 ├── Cluster03-Audio-Processing/
 │   └── Audio-Metadata-Analyzer/
+│       ├── Output/
+│       ├── samples/
+│       ├── README.md
+│       ├── file_utils.py
+│       └── audio_analyzer.py
+│
 ├── Cluster04-Video-Processing/
 │   └── Lab03-Video-Metadata-Analyzer/
+│       ├── Output/
+│       ├── samples/
+│       ├── README.md
+│       ├── file_utils.py
+│       └── video_analyzer.py
+│
 ├── Cluster05-Compression/
+│   └── README.md
+│
 ├── Cluster06-Multimedia-Communication/
+│   └── README.md
+│
 ├── Cluster07-Interactive-Multimedia/
+│   └── README.md
+│
 ├── Cluster08-Advanced-Multimedia-AI/
+│   └── README.md
 │
 ├── Capstone-Projects/
 │   └── Consolidated-Multimedia-Analyzer/
+│       ├── reports/
+│       ├── samples/
+│       ├── README.md
+│       ├── audio_analyzer.py
+│       ├── file_utils.py
+│       ├── image_analyzer.py
+│       ├── main.py
+│       ├── report_generator.py
+│       ├── requirements.txt
+│       └── video_analyzer.py
 │
 └── README.md
 ```
 
----
+
 
 
