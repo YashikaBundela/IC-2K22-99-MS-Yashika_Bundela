@@ -1,1 +1,20 @@
+================================
+AUDIO METADATA REPORT
+================================
+File Name       : song.mp3
+File Size       : 8.91 KB
+Format          : MP3
+Duration        : 00:02
 
+AUDIO
+--------------------------------
+Bit Rate        : 34 kbps
+Sampling Rate   : 44100 Hz
+Channels        : 1
+
+METADATA
+--------------------------------
+Title           : N/A
+Artist          : N/A
+Album           : N/A
+Date            : N/A
